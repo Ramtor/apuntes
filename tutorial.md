@@ -21,3 +21,9 @@ sudo apt-get install gdebi
 ```
 ### Reparar GRUB
 http://www.matthiaskauer.com/2015/03/install-boot-repair-on-debian-from-ubuntu-ppa/
+
+### Instalar mis aplicaciones favoritas
+
+```sh
+sudo apt-get install htop
+```
