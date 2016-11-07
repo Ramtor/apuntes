@@ -29,3 +29,14 @@ sudo apt-get install htop
 sudo apt-get install libreoffice
 sudo apt-get install transmission-gtk 
 ```
+
+## Ejecutar "scripts"
+```sh
+bash nombre_script.sh
+```
+
+## Instalar drivers
+
+```sh
+sudo lshw | grep UNCLAIMED
+```
