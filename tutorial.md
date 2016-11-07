@@ -11,7 +11,7 @@ sudo adduser nombre_usuario sudo
 ### Actualizar Debian
 
 ```sh
-sudo apt-get update && sudo apt-get upgrade && sudo apt dist-upgrade && sudo apt-get autoremove
+sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade && sudo apt-get autoremove
 ```
 
 ### Instalar instalador gráfico de paquetes de Debian
