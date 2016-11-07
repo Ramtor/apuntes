@@ -26,4 +26,6 @@ http://www.matthiaskauer.com/2015/03/install-boot-repair-on-debian-from-ubuntu-p
 
 ```sh
 sudo apt-get install htop
+sudo apt-get install libreoffice
+sudo apt-get install transmission-gtk 
 ```
